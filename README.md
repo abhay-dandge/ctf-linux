@@ -85,12 +85,12 @@ Level 5: Privilege escalation
 
 - Sometimes permissions matter more than content.
 
-Always think like a hacker 😉
+ 😉
 
 # 🔗 Connect
 
 Created by: Abhay Dandge
 
-Follow me for more Linux & DevOps fun → 
+If you’re interested in collaborating or have suggestions, let’s connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhaydandge/)
