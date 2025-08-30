@@ -91,4 +91,6 @@ Always think like a hacker 😉
 
 Created by: Abhay Dandge
 
-Follow me for more Linux & DevOps fun → [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhaydandge/)
+Follow me for more Linux & DevOps fun → 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhaydandge/)
