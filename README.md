@@ -2,7 +2,8 @@
 
 ## Welcome to Linux CTF Challenge
 
-This is a Docker-based Linux CTF (Capture The Flag) challenge created by Abhay Dandge.
+This is a Docker-based Linux CTF (Capture The Flag) challenge.
+
 It’s designed to help you learn Linux concepts, security, and system administration in a fun and hands-on way.
 
 Each level is packaged inside its own Docker container. Solve the challenge inside one container, grab the flag, and move to the next level 🚀
