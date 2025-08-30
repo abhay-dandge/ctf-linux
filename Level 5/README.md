@@ -23,7 +23,7 @@ Your task is to **decode** it and reveal the hidden message.
 2. Once you find the file, carefully analyze it.  
 3. It looks encoded — figure out **which encoding/obfuscation** method was used.  
 4. Decode it step by step.  
-5. The decoded message is your **flag** 🎌.  
+5. The decoded message is your to WIN /**flag** 🎌.  
 
 ---
 
