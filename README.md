@@ -1,3 +1,4 @@
+![CTF Poster](srv/1_9_9vPdiCQlJE--ipqp-PIA.jpg)
 # CTF-linux
 
 ## Welcome to Linux CTF Challenge
@@ -9,9 +10,6 @@
 - Each level is packaged inside its own Docker container.
   
 - Solve the challenge inside one container, grab the flag, and move to the next level 🚀
-
-
-![CTF Poster](srv/1_9_9vPdiCQlJE--ipqp-PIA.jpg)
 
 
 # 📦 Requirements
