@@ -35,4 +35,4 @@ Don’t forget to **grade yourself** after completing this level:
 ```
 level3 
 ```
-Good luck, h 🕵️!  
+Good luck, 🕵️!  
