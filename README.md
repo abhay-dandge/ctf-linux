@@ -10,6 +10,9 @@
   
 - Solve the challenge inside one container, grab the flag, and move to the next level 🚀
 
+ ![CTF Poster](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIf8rbpraq5MXlGvG2zc0Q4DytweNf2wFDR8Vr3kSv4bkrbM2XX3Me6wk3oBiZeIL50A&usqp=CAU)
+
+
 # 📦 Requirements
 
 - Docker installed on your system → Get Docker
